@@ -1,2 +1,2 @@
 # Task-List-
-Javascript task project where you can add and remove tasks. project gets stored on local storage.
+Javascript task project (UI made with Materialize) where you can add, remove and filter tasks. project also has local storage features where you can save and delete from the local storage for future use.
